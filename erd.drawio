@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:54:40.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_4ap7q-GRoktWDkrQTE0" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-27T08:24:29.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xRoTkdUpV3ZHwu9frIKV" version="21.6.5" type="github" pages="2">
   <diagram name="페이지-1" id="ZnHBhvjJuVNRbxXca9uU">
-    <mxGraphModel dx="656" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="f-JAYxa_N3UwoayTcWPG-22" value="구매" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457" y="410" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-JAYxa_N3UwoayTcWPG-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nc1cBvIdsHUGoTgOPREE-12" target="f-JAYxa_N3UwoayTcWPG-22" edge="1">
+        <mxCell id="f-JAYxa_N3UwoayTcWPG-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nc1cBvIdsHUGoTgOPREE-12" target="f-JAYxa_N3UwoayTcWPG-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="547" y="310" as="sourcePoint" />
             <mxPoint x="447" y="420" as="targetPoint" />
