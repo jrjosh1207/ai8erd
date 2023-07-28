@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:21:01.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hnspaqrtYdMnsVwBl_ou" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:21:31.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nOz7_50oYNsxzWYvEliX" version="21.6.5" type="github" pages="3">
   <diagram name="페이지-1" id="ZnHBhvjJuVNRbxXca9uU">
     <mxGraphModel dx="967" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -681,24 +681,6 @@
             <mxPoint x="363" y="572" as="sourcePoint" />
             <mxPoint x="335" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h5XiZPwMv6HfIvMZQ2U4-71" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h5XiZPwMv6HfIvMZQ2U4-75" target="h5XiZPwMv6HfIvMZQ2U4-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405.9999999999998" y="472.5" as="sourcePoint" />
-            <mxPoint x="480" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h5XiZPwMv6HfIvMZQ2U4-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h5XiZPwMv6HfIvMZQ2U4-74" target="h5XiZPwMv6HfIvMZQ2U4-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="438" y="492.5" as="sourcePoint" />
-            <mxPoint x="480" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h5XiZPwMv6HfIvMZQ2U4-74" value="학번" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h5XiZPwMv6HfIvMZQ2U4-75" value="수강신청일" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="330" y="470" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
